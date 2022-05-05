@@ -9,9 +9,9 @@ for i in l:
 
 print('l_unique by for : ', l_unique)
 
-l_unique = []
-l_unique = list(set(l))
-print('l_unique by set : ', l_unique)
+#l_unique = []
+#l_unique = list(set(l))
+#print('l_unique by set : ', l_unique)
 
 l_repeat = []
 for i in l_unique :
